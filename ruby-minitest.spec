@@ -6,7 +6,7 @@
 Summary:	Small and fast replacement for ruby's huge and slow test/unit
 Name:		ruby-%{pkgname}
 Version:	4.7.0
-Release:	0.1
+Release:	1
 License:	MIT/Ruby License
 Group:		Development/Languages
 Source0:	http://gems.rubyforge.org/gems/%{pkgname}-%{version}.gem
